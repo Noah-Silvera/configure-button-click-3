@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0",
+  "items": [
+    {
+      "id": "button-config",
+      "iconId": "info",
+      "title": "Alert",
+      "action": {
+        "name": "ui.alert",
+        "arguments": {
+          "message": "Message from config."
+        }
+      },
+      "$type": "menu-item"
+    }
+  ]
+}
