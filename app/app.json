@@ -8,7 +8,7 @@
       "action": {
         "name": "ui.alert",
         "arguments": {
-          "message": "Message from config."
+          "message": "Message from config. CHANGED"
         }
       },
       "$type": "menu-item"
